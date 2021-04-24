@@ -8,3 +8,10 @@
   * `nullaway.warnings` contains all parsed warnings from NullAway
   * `eradicate.warnings` contains all parsed warnings from Eradicate
   * `cfnullness.warnings` contains all parsed warnings from Checker Framework's Nullness Checker
+* `found-bugs.zip` contains six files:
+  * `sblt.found` contains all found bugs by SpotBugsLT
+  * `sbht.found` contains all found bugs by SpotBugsHT
+  * `infer.found` contains all found bugs by Infer
+  * `nullaway.found` contains all found bugs by NullAway
+  * `eradicate.found` contains all found bugs by Eradicate
+  * `cfnullness.found` contains all found bugs by Checker Framework's Nullness Checker
